@@ -27,7 +27,7 @@ Aquí dejo un breve (muy breve) resumen del mismo.
 
 ## 📑 Diagrama
 
-![Adapter](.github/assets/IMG_01.png)
+![Builder](.github/assets/IMG_01.png)
 
 ## ⚙️ Requerimientos
 El proyecto está desarrollado usando **Java 17** y **Gradle 7.3**, no uso nada particular de esta versión de Java, por lo que es necesario que uses cualquier versión arriba de Java 5.
